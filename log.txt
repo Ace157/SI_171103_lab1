@@ -1,0 +1,24 @@
+C:\Users\171103\lab1>git log
+commit 3ab70c5ad631da294b67ef77d17a69dbaf4ebe5a (HEAD -> logging, master)
+Author: unknown <Aleksandar.Dimitrov@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:47:19 2019 +0100
+
+    Commit
+
+commit 05b31237b66cfe0bcd5e643d97892e3d31006b6c
+Author: unknown <Aleksandar.Dimitrov@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:40:02 2019 +0100
+
+    modified l1.txt
+
+commit 9b9ebc80495579fd60b4788ea8c3c5fef5d866b9 (origin/master)
+Author: unknown <Aleksandar.Dimitrov@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:34:11 2019 +0100
+
+    modify l1.txt
+
+commit 208e03c47951c7c721af6bf594d6158f8360b883
+Author: unknown <Aleksandar.Dimitrov@students.finki.ukim.mk>
+Date:   Thu Mar 21 10:32:26 2019 +0100
+
+    Initial commit
